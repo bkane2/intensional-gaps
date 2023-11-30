@@ -1,5 +1,7 @@
 .ipynb_checkpoints
 data
 ckpt
+ckpt-passivetest
+ckpt-sem-syn
 plots
 notes
