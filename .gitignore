@@ -2,6 +2,7 @@
 data
 ckpt
 ckpt-passivetest
-ckpt-sem-syn
+ckpt-sem-syn*
+loadings_dumped*
 plots
 notes
